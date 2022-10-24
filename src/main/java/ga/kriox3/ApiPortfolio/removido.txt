@@ -1,0 +1,5 @@
+    <properties>
+        <java.version>19</java.version>
+    </properties>
+
+saque eso del pom para heroku y la csm
